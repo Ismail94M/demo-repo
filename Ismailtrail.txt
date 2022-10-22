@@ -1,1 +1,3 @@
-Github use for collaboration between the employees
+Github use for collaboration between the employees.
+
+Hello all i started learning Git repositary creating
